@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044389583426",
+    "firebase_url": "https://minorf1.firebaseio.com",
+    "project_id": "minorf1",
+    "storage_bucket": "minorf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044389583426:android:0daf8f8f5de4f782edebdb",
+        "android_client_info": {
+          "package_name": "com.rexraphael.flutterunitywidgetexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044389583426-9jojmh55lo9tug2o31e77h1sejrvf4pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk1amCiR9jKZlIURtZ9I5TmHrXXqesxb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044389583426-9jojmh55lo9tug2o31e77h1sejrvf4pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
